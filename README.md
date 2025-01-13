@@ -1,2 +1,2 @@
 # Harvestly
-ecommerce system to connect farmers directly to consumers 
+ecommerce system to connect SMEs directly to consumers 
